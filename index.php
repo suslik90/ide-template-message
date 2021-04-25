@@ -6,4 +6,4 @@
  * Time: 16:32
  */
 
-echo "Example template GIT";
+echo "Example template GIT1";
